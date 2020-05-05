@@ -1,0 +1,7 @@
+main: da.david531.DavAuth
+version: 1.0.3
+name: DavAuth
+
+commands:
+  modificarpin:
+    description: Comando para modificar PIN.
